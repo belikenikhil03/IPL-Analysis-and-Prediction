@@ -5,3 +5,5 @@ seaborn
 dill
 scikit-learn
 ipykernel
+xgboost
+catboost

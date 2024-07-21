@@ -10,3 +10,5 @@ Requires-Dist: seaborn
 Requires-Dist: dill
 Requires-Dist: scikit-learn
 Requires-Dist: ipykernel
+Requires-Dist: xgboost
+Requires-Dist: catboost
