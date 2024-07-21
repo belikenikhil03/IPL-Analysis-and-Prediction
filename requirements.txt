@@ -7,4 +7,5 @@ scikit-learn
 ipykernel
 xgboost
 catboost
+streamlit
 -e .
